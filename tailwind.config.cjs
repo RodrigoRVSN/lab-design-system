@@ -28,6 +28,8 @@ module.exports = {
 
       'cyan-500': '#81D0F7',
       'cyan-300': '#9BE1FB',
+
+      'white': '#ffffff',
     }
   },
   plugins: [],
