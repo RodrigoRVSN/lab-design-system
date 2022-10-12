@@ -20,14 +20,20 @@ module.exports = {
     },
 
     colors: {
-      'gray-900': '#121214',
-      'gray-800': '#202024',
-      'gray-400': '#7c7c8a',
-      'gray-200': '#c4c4cc',
-      'gray-100': '#e1e1e6',
+      transparent: 'transparent',
 
-      'cyan-500': '#81D0F7',
-      'cyan-300': '#9BE1FB',
+      gray: {
+        900: '#121214',
+        800: '#202024',
+        400: '#7c7c8a',
+        200: '#c4c4cc',
+        100: '#e1e1e6',
+      },
+
+      cyan: {
+        500: '#81D0F7',
+        300: '#9BE1FB',
+      },
 
       'white': '#ffffff',
     }
